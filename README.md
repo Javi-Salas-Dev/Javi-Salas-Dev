@@ -19,6 +19,7 @@
 
 - 🌎 Website (in update) [website](https://javi-salas-dev.github.io/portfolio_Javier_Salas/)
 - 💻 Plazi student [Platzi](https://platzi.com/p/JaviSalas/)
+- 💻 Digital House student [Digital House]
 - 📚 I'm learning Next.js - Mongo DB
 - 💬 Ask me about in (nestorsalas.p@gmail.com)
 
